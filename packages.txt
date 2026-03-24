@@ -1,0 +1,4 @@
+poppler-utils
+libzbar0
+ghostscript
+libgl1
